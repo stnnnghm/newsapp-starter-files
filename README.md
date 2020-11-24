@@ -21,7 +21,7 @@ version used to test the code in the tutorial is **1.15.3**.
 - Clone or download this repository to your filesystem.
 
 ```bash
-$ git clone https://github.com/Freshman-tech/news-demo-starter-files
+$ git clone https://github.com/stnnnghm/newsapp-starter-files
 ```
 
 - `cd` into the project directory and follow along with the [tutorial](https://freshman.tech/web-development-with-go/).
